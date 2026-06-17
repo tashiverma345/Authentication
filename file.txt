@@ -1,0 +1,7 @@
+Authentication :
+validation : data format checking
+verification : data jo mil rha vho shi hai ya nhi
+authentication : identifying ki request kis user ke pass se aa rhi hai
+authorixation
+
+MONGO_URI MEIN compass se link lena hota , copy connecton string .
